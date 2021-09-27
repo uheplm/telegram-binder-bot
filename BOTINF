@@ -1,0 +1,9 @@
+{
+	"name":"Binder",
+	"description":"Trigger rise",
+	"lastupdate":"26.05.19",
+	"app":"app.py",
+	"run_env":"python3",
+	"userid": ["176855388"],
+	"creator": "@uheplm"
+}

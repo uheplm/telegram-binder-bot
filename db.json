@@ -1,0 +1,181 @@
+{
+    "176855388": {
+        "chat_name": null,
+        "settings": {
+            "welcome_message": {
+                "Enable": false,
+                "Text": "Welcome, $username"
+            },
+            "ReportFeature": true
+        },
+        "keywords": {},
+        "members": {
+            "176855388": {
+                "full_name": "\ud835\udd9a\ud835\udd8d\ud835\udd8a\ud835\udd95\ud835\udd91\ud835\udd92",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632753073
+            }
+        }
+    },
+    "-1001285536110": {
+        "chat_name": "\ud835\ude6a\ud835\ude69\ud835\ude64 \u2014 \u0412\u044b \u0443\u0436\u0435 \u043a\u043e\u0440\u043c\u0438\u043b\u0438 \u0441\u0432\u043e\u0435\u0433\u043e \u0445\u043e\u0445\u043b\u0430!",
+        "settings": {
+            "welcome_message": {
+                "Enable": false,
+                "Text": "Welcome, $username"
+            },
+            "ReportFeature": true
+        },
+        "keywords": {
+            "\u0431\u043b\u044f\u0434\u044c": {
+                "type": "simple",
+                "task": "none",
+                "silent": false,
+                "task_on_reply": false,
+                "delafter": false,
+                "admin_only": false,
+                "chance": 100,
+                "keyquery": "\u0431\u043b\u044f\u0434\u044c",
+                "reply_mode": "last",
+                "enabled": true,
+                "answer": {
+                    "type": "document",
+                    "file_id": "CgACAgIAAx0CTJ-5bgABBnOuYVHV2T38-zy415tZhK5lhpbBAAFWAAL3DQAC-_egSAfEnaWZ0FqNIQQ",
+                    "text": ""
+                }
+            },
+            "PIN": {
+                "type": "sticker",
+                "task": "pinl",
+                "silent": false,
+                "task_on_reply": false,
+                "delafter": false,
+                "admin_only": false,
+                "chance": 100,
+                "keyquery": "CAACAgIAAx0CTJ-5bgABBnPVYVHWPHnf4E_B_A2GTVvjxhqx6tEAAoAMAALCP7BISmkO4Kg_DnQhBA",
+                "reply_mode": "last",
+                "enabled": true,
+                "answer": {
+                    "type": "none",
+                    "file_id": "",
+                    "text": "Hello World!"
+                }
+            },
+            "\u043f\u0438\u043d": {
+                "type": "simple",
+                "task": "pinl",
+                "silent": false,
+                "task_on_reply": true,
+                "delafter": false,
+                "admin_only": true,
+                "chance": 100,
+                "keyquery": "\u043f\u0438\u043d",
+                "reply_mode": "last",
+                "enabled": false,
+                "answer": {
+                    "type": "sticker",
+                    "file_id": "CAACAgIAAx0CTJ-5bgABBnPnYVHXSAZzg8Dr-F2oLWxbxsUEUPUAAoAMAALCP7BISmkO4Kg_DnQhBA",
+                    "text": ""
+                }
+            },
+            "\u0411\u0410\u041d": {
+                "type": "simple",
+                "task": "kick",
+                "silent": false,
+                "task_on_reply": true,
+                "delafter": false,
+                "admin_only": true,
+                "chance": 100,
+                "keyquery": "\u0431\u0430\u043d",
+                "reply_mode": "last",
+                "enabled": true,
+                "answer": {
+                    "type": "document",
+                    "file_id": "CgACAgIAAx0ETJ-5bgABBnUQYVIi7O4ajLEuxARrcfX8sjYPq1EAAvcNAAL796BIB8SdpZnQWo0hBA",
+                    "text": ""
+                }
+            }
+        },
+        "members": {
+            "176855388": {
+                "full_name": "\ud835\udd9a\ud835\udd8d\ud835\udd8a\ud835\udd95\ud835\udd91\ud835\udd92",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632753113
+            },
+            "1178734652": {
+                "full_name": "holococks",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632753130
+            },
+            "63786337": {
+                "full_name": "gershik",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632753133
+            },
+            "289891034": {
+                "full_name": "mongoose",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632753171
+            },
+            "113994897": {
+                "full_name": "ghettoblaster",
+                "IgnoreUser": true,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632753720
+            },
+            "208280544": {
+                "full_name": "\u0441\u043f\u0443\u0433 \u200f\u263f",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632754008
+            },
+            "576402514": {
+                "full_name": "I\u2019m",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632754639
+            },
+            "176191340": {
+                "full_name": "avrdude",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632754657
+            },
+            "63109371": {
+                "full_name": "\u043c\u0430\u043d\u0434\u0440\u0456\u0432\u043d\u0438\u043a \u043d\u0430 \u043a\u043e\u0442\u043e\u0444\u0430",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632756741
+            },
+            "249401747": {
+                "full_name": "2n\ud80c\udcfa",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632757204
+            },
+            "230130383": {
+                "full_name": "EvgenFil // (=^.^=)",
+                "IgnoreUser": false,
+                "DisableReports": false,
+                "AdminRights": false,
+                "LastMessageDate": 1632763001
+            }
+        }
+    }
+}
